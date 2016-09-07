@@ -4,7 +4,7 @@ This is my repository of learning MEAN Stack Technology
 - NodeJS
 - Express
 - MongoDB
-- AngularJS  
+- AngularJS
 ## References
 - MEAN Web Development
 - Twenty one pilots music :)
