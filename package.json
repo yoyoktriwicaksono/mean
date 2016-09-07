@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/yoyoktriwicaksono/mean/issues"
   },
-  "homepage": "https://github.com/yoyoktriwicaksono/mean#readme"
+  "homepage": "https://github.com/yoyoktriwicaksono/mean#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
