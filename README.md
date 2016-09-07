@@ -13,4 +13,4 @@ This is my repository of learning MEAN Stack Technology
 - Coffee :)
 
 ## Notes for Next
-- Rendering Views
+- Rendering Views (Page 70)
