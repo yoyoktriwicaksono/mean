@@ -1,0 +1,25 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "mean stack v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoyoktriwicaksono/mean.git"
+  },
+  "keywords": [
+    "express",
+    "angularjs",
+    "node.js",
+    "mongoDB"
+  ],
+  "author": "yoyok.thewicaksono@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoyoktriwicaksono/mean/issues"
+  },
+  "homepage": "https://github.com/yoyoktriwicaksono/mean#readme"
+}
