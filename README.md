@@ -5,3 +5,7 @@ This is my repository of learning MEAN Stack Technology
 - Express
 - MongoDB
 - AngularJS
+## References
+- MEAN Web Development
+- Twenty one pilots music :)
+- Coffee :)
