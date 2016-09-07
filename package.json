@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/yoyoktriwicaksono/mean#readme",
   "dependencies": {
+    "connect": "^3.4.1",
     "express": "^4.14.0"
   }
 }
