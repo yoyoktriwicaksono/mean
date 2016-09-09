@@ -67,7 +67,7 @@ AngularJS along with other MVC frameworks revolutionized web development by
 transforming the once unmaintainable frontend code base into a structured code
 base that can support more advanced development paradigms such as TDD.
 
-Source : [MEAN Web Development](https://github.com/yoyoktriwicaksono/mean/blob/master/References/MEAN%20Web%20Development.pdf)
+*Source* : [MEAN Web Development](https://github.com/yoyoktriwicaksono/mean/blob/master/References/MEAN%20Web%20Development.pdf)
 
 ## Why MEAN Stack
 MEAN is an abbreviation for MongoDB, Express, AngularJS, and Node.js. The
@@ -79,7 +79,7 @@ MVC architecture
 * Serialization and deserialization of data structures is no longer needed
 because data marshaling is done using JSON objects
 
-Source : [MEAN Web Development](https://github.com/yoyoktriwicaksono/mean/blob/master/References/MEAN%20Web%20Development.pdf)
+*Source* : [MEAN Web Development](https://github.com/yoyoktriwicaksono/mean/blob/master/References/MEAN%20Web%20Development.pdf)
 
 # Let's Rock
 
