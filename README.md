@@ -89,6 +89,8 @@ because data marshaling is done using JSON objects
 * [Create Http Server with connect](https://github.com/yoyoktriwicaksono/mean/wiki/3.-Create-Http-Server-with-connect)
 
 * [Create express application](https://github.com/yoyoktriwicaksono/mean/wiki/4.-Create-express-application)
+
+* [Create mongoose application](https://github.com/yoyoktriwicaksono/mean/wiki/5.-Create-mongoose-application)
  
 ## Contributors
 Until now, the author and contributor is me.
