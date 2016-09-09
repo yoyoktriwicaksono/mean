@@ -29,6 +29,7 @@ run so much faster that it completely transformed web application development.
 More importantly, the release of the engine's source code allowed developers to
 start reimagining JavaScript outside of the browser. One of the irst products of this
 revolution was Node.js.
+
 After looking into other options for a while, programmer Ryan Dahl found that V8
 engine it his non-blocking I/O experiment called Node.js. The idea was simple: help
 developers build non-blocking units of code to allow better use of system resources
@@ -38,6 +39,7 @@ Node's elegant module system enabled developers to freely extend the platform
 using third-party modules to achieve almost any functionality. The reaction by the
 online community was a creation of various tools from modern web frameworks to
 robotics server platforms. However, server-side JavaScript was only the beginning.
+
 When Dwight Merriman and Eliot Horowitz set out to build their scalable hosting
 solution back in 2007, they already had a lot of experience with building web
 applications. However, the platform they built did not succeed as planned, so in 2009
@@ -50,6 +52,7 @@ advanced queries and easy scaling—features that eventually made MongoDB one of
 the leading NoSQL solutions. JavaScript broke another boundary. But the JavaScript
 revolutionaries haven't forgotten where it all began; in fact, the popularization of
 modern browsers created a new wave of JavaScript frontend frameworks.
+
 Back in 2009, while building their JSON as a platform service, developers Miško
 Hevery and Adam Abrons noticed that the common JavaScript libraries weren't
 enough. The nature of their rich web application raised the need for a more
