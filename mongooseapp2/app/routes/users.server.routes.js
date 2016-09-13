@@ -5,5 +5,7 @@ module.exports = function(app) {
 		.post(users.create)
 		.get(users.list),
 	app.route('/usernameemail')
-		.get(users.listUsernameEmail)
+		.get(users.listUsernameEmail),
+	app.route('/usersPage')
+		.get(users.listPage)
 };

@@ -22,6 +22,19 @@ exports.list = function(req, res, next) {
 	});
 };
 
+exports.listPage = function(req, res, next) {
+	User.find({},'username email firstName lastName',{
+			skip : 10,
+			limit : 10
+		}, function(err, users) {
+		if (err) {
+			return next(err);
+		} else {
+			res.json(users);
+		}
+	});
+};
+
 exports.listUsernameEmail = function(req, res, next) {
 	User.find({},'username email', function(err, users) {
 		if (err) {
