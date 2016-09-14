@@ -96,6 +96,6 @@ because data marshaling is done using JSON objects
 Until now, the author and contributor is me.
 
 ## Contact
-You could contact me at yoyok.thewicaksono@gmail.com
+Check to my profile to get my email :)
 
 ### Enjoy...
