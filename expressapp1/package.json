@@ -1,7 +1,7 @@
 {
   "name": "expressapp1",
   "version": "1.0.0",
-  "description": "MEAN App 1",
+  "description": "Express Application Hello World",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,7 +1,7 @@
 {
   "name": "mongooseapp2",
   "version": "1.0.0",
-  "description": "MEAN App 1",
+  "description": "Mongoose application. User Model, Routing, Controller, operation : create, list, listpage,listUsernameEmail",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

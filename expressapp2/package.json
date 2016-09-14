@@ -1,7 +1,7 @@
 {
   "name": "expressapp2",
   "version": "1.0.0",
-  "description": "MEAN App 1",
+  "description": "Express Application using morgan as logger, body-parser, method-override as override http to support REST api, compression as compression http result ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
