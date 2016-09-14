@@ -13,9 +13,20 @@ var UserSchema = new Schema({
 		// predefined modifier
 		trim : true,
 		// set as unique index
-		unique : true
+		unique : true,
+		// predefined validator
+		required : true
 	},
-	password: String,
+	password: {
+		type : String,
+		// Custom validator
+		validate : [
+			function(password) {
+				return password.length >= 6
+			},
+			'Password shall be longer than 5 length'
+		]
+	},
 	created: {
 		type : Date,
 		// default value
@@ -45,6 +56,11 @@ var UserSchema = new Schema({
 				return url;
 			}
 		}
+	},
+	role: {
+		type : String,
+		// validator enum
+		enum : ['Admin','Owner','User']
 	}
 });
 
