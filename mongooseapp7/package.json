@@ -1,7 +1,7 @@
 {
-  "name": "mongooseapp6",
+  "name": "mongooseapp7",
   "version": "1.0.0",
-  "description": "Mongoose DBRef",
+  "description": "Mongoose DBRef (standard callback & promise)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
