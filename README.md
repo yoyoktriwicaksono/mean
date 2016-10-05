@@ -8,7 +8,7 @@ This is my repository of learning MEAN Stack Technology
 - AngularJS
 
 ## References
-- [MEAN Web Development](https://github.com/yoyoktriwicaksono/mean/blob/master/References/MEAN%20Web%20Development.pdf)
+- MEAN Web Development
 - Twenty one pilots music :)
 - Coffee :)
 
