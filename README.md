@@ -88,9 +88,10 @@ because data marshaling is done using JSON objects
 * [Create Http Server with connect](https://github.com/yoyoktriwicaksono/mean/wiki/3.-Create-Http-Server-with-connect)
 * [Create express application](https://github.com/yoyoktriwicaksono/mean/wiki/4.-Create-express-application)
 * [MongoDB](https://github.com/yoyoktriwicaksono/mean/wiki/5.-MongoDB)
-* [Create mongoose application](https://github.com/yoyoktriwicaksono/mean/wiki/6.-Create-mongoose-application)
-* [Authentication using Passport](https://github.com/yoyoktriwicaksono/mean/wiki/7.-Authentication-using-Passport)
-* [Testing using mocha, supertest and shouldjs](https://github.com/yoyoktriwicaksono/mean/wiki/8.-Testing-using-mocha,-supertest-and-shouldjs)
+* [AngularJS](https://github.com/yoyoktriwicaksono/mean/wiki/6.-AngularJS)
+* [Create mongoose application](https://github.com/yoyoktriwicaksono/mean/wiki/7.-Create-mongoose-application)
+* [Authentication using Passport](https://github.com/yoyoktriwicaksono/mean/wiki/8.-Authentication-using-Passport)
+* [Testing using mocha, supertest and shouldjs](https://github.com/yoyoktriwicaksono/mean/wiki/9.-Testing-using-mocha,-supertest-and-shouldjs)
  
 ## Contributors
 Until now, the author and contributor is me.
