@@ -67,7 +67,7 @@ AngularJS along with other MVC frameworks revolutionized web development by
 transforming the once unmaintainable frontend code base into a structured code
 base that can support more advanced development paradigms such as TDD.
 
-*Source* : [MEAN Web Development](https://github.com/yoyoktriwicaksono/mean/blob/master/References/MEAN%20Web%20Development.pdf)
+*Source* : MEAN Web Development
 
 ## Why MEAN Stack
 MEAN is an abbreviation for MongoDB, Express, AngularJS, and Node.js. The
@@ -79,18 +79,18 @@ MVC architecture
 * Serialization and deserialization of data structures is no longer needed
 because data marshaling is done using JSON objects
 
-*Source* : [MEAN Web Development](https://github.com/yoyoktriwicaksono/mean/blob/master/References/MEAN%20Web%20Development.pdf)
+*Source* : MEAN Web Development
 
 # Let's Rock
 
 * [Create Package](https://github.com/yoyoktriwicaksono/mean/wiki/1.-Create-Package)
 * [Create first Http Server](https://github.com/yoyoktriwicaksono/mean/wiki/2.-Create-first-Http-Server)
-
 * [Create Http Server with connect](https://github.com/yoyoktriwicaksono/mean/wiki/3.-Create-Http-Server-with-connect)
-
 * [Create express application](https://github.com/yoyoktriwicaksono/mean/wiki/4.-Create-express-application)
-
-* [Create mongoose application](https://github.com/yoyoktriwicaksono/mean/wiki/5.-Create-mongoose-application)
+* [MongoDB](https://github.com/yoyoktriwicaksono/mean/wiki/5.-MongoDB)
+* [Create mongoose application](https://github.com/yoyoktriwicaksono/mean/wiki/6.-Create-mongoose-application)
+* [Authentication using Passport](https://github.com/yoyoktriwicaksono/mean/wiki/7.-Authentication-using-Passport)
+* [Testing using mocha, supertest and shouldjs](https://github.com/yoyoktriwicaksono/mean/wiki/8.-Testing-using-mocha,-supertest-and-shouldjs)
  
 ## Contributors
 Until now, the author and contributor is me.
