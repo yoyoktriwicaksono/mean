@@ -1,0 +1,7 @@
+{
+	name : MEAN Angular,
+	version: 1,
+	dependencies: {
+		angular: ~1.6
+	}
+}

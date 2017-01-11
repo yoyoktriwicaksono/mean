@@ -1,0 +1,21 @@
+{
+  "name": "angularjs1",
+  "description": "tutorial angularjs1",
+  "main": "index.js",
+  "authors": [
+    "yoyok.thewicaksono@gmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yoyoktriwicaksono/mean",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
